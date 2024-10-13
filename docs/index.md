@@ -61,7 +61,7 @@ If the system were extended to an Optical Record in the NHS App, this would crea
 
 We could make very rapid progress if the UK optician community were to do the following -
 
-- agree on the structured data standard for optical prescriptions (FIHR has done the work so no reason to delay)
+- agree on the structured data standard for optical prescriptions (FHIR has done much of [the work](https://build.fhir.org/visionprescription.html) so no reason to delay)
 - tweak their systems to print a QR code alongside the text prescription (simple and cheap using common, free libraries).
 
 Once recipients of eye tests have their prescriptions in an easily readable standards-based format then this opens up a lot of possibilities for how they can be used for their benefit.
