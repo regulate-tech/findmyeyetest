@@ -1,4 +1,4 @@
-# FindMyEyeTest - an NHSHackDay Project
+# FindMyEyeTest - an [NHSHackDay](https://nhshackday.com/) Project
 
 ## The Problem
 
@@ -37,7 +37,7 @@ This model can be improved on the input side by having opticians provide prescri
 
 There is a body defining global health information standards called Fast Healthcare Interoperability Standards (FHIR) which [the NHS is committed to using](https://digital.nhs.uk/services/fhir-apis).
 
-We built on theirexisting standard for optical prescriptions...
+We built on their [existing standard for a vision prescription](https://build.fhir.org/visionprescription.html).
 
 #### STEP 2 - Extract the prescription data from a text printout
 
