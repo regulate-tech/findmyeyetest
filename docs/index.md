@@ -35,7 +35,7 @@ This model can be improved on the input side by having opticians provide prescri
 
 #### STEP 1 - Define the Optical Prescription Data Structure
 
-There is a body defining global health information standards called Fast Healthcare Interoperability Standards (FHIR) which [the NHS is committed to using](https://digital.nhs.uk/services/fhir-apis).
+There is a body defining global health information standards called Fast Healthcare Interoperability Resources (FHIR) which [the NHS is committed to using](https://digital.nhs.uk/services/fhir-apis).
 
 We built on their [existing standard for a vision prescription](https://build.fhir.org/visionprescription.html).
 
