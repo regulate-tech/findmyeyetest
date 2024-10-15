@@ -31,7 +31,7 @@ Our solution takes the output from the optician, converts into a standards-based
 
 This model can be improved on the input side by having opticians provide prescriptions in a QR code format, and on the output side by adding other types of storage such as the Apple Pass and NHS App.
 
-![Examples of paper and QR code versions of an optical prescription record](/docs/assets/findmyeyetest.png)
+![Examples of paper and QR code versions of an optical prescription record](./assets/findmyeyetest.png)
 
 ### The Technology
 
