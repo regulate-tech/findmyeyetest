@@ -1,0 +1,17 @@
+source "https://rubygems.org"
+
+# Specify the GitHub Pages gem to use the same dependencies as the server
+# This gem includes Jekyll and all supported plugins at specific versions.
+gem "github-pages", group: :jekyll_plugins
+
+# If you have custom, supported plugins, list them here:
+# group :jekyll_plugins do
+#   gem "jekyll-sitemap" # Already included in github-pages, but for example
+# end
+
+# Optional: To ensure the correct Ruby version is used locally (highly recommended)
+# You would also create a file named .ruby-version with the number (e.g., 3.2.2)
+# ruby "3.2.2" 
+
+# Optional: For Windows users to improve file watching performance
+gem "wdm", "~> 0.1.1", install_if: -> { Gem.win_platform? }
