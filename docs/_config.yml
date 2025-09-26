@@ -1,0 +1,25 @@
+title: findmyeyetest.org
+description: An NHS Hackday Project
+repository: regulate-tech/findmyeyetest
+plugins:
+  - jekyll-remote-theme
+# remote_theme: pages-themes/tactile
+permalink: /posts/:year/:month/:day/:title/
+
+# URL settings for GitHub Pages live
+baseurl: ""  # Empty for custom domain
+url: "https://findmyeyetest.org"
+
+# Encoding setting to avoid errors
+encoding: utf-8
+
+# Hide GitHub repository information
+github_username: # leave blank
+repository: # leave blank
+show_downloads: false
+github:
+  is_project_page: false
+  is_user_page: false
+
+# Disable repository link
+public: false
